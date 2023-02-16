@@ -86,11 +86,11 @@ app-release.aab (total compressed)                                         30 MB
 
 There have two deferred components
 
-| Extension | Size  |  Comment   |
-|:---------:|:-----:|:----------:|
-|    AAB    | 30 MB | MAX 150 MB |        
-|   juz1    | 11 MB | MAX 150 MB |        
-|   juz2    | 11 MB | MAX 150 MB |  
+| Extension | Size  |   Comment   |
+|:---------:|:-----:|:-----------:|
+|    AAB    | 30 MB | MAX 150+ MB |        
+|   juz1    | 11 MB | MAX 150 MB  |        
+|   juz2    | 11 MB | MAX 150 MB  |  
 
 
 ### Screenshots
