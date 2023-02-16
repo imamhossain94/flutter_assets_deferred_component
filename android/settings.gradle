@@ -1,4 +1,4 @@
-include ':app'
+include ':app', ':juz1', ':juz2'
 
 def localPropertiesFile = new File(rootProject.projectDir, "local.properties")
 def properties = new Properties()

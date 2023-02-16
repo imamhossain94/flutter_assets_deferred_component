@@ -47,5 +47,15 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<key>io.flutter.embedded_views_preview</key>
+    <true/>
+    <key>io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager.loadingUnitMapping</key>
+    <dict>
+        <key>2</key>
+        <string>juz1</string>
+        <key>3</key>
+        <string>juz2</string>
+    </dict>
 </dict>
 </plist>
